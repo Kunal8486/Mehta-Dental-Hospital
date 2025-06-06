@@ -1,1 +1,2 @@
-# Smile-Factory
+
+# The Smile Factory - Dental Clinic 
