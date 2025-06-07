@@ -20,8 +20,9 @@ const Banner = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h1>Entrust your smile to professionals</h1>
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <h2>Welcome to</h2>
+                                    <h1>Mehta Dental Hospital</h1>
+                                    <p>Our trusted destination for exceptional dental care in Greater Noida. We’re here to ensure your smile stays healthy, beautiful, and confident.</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">
@@ -51,7 +52,7 @@ const Banner = () => {
                                             <img src={doctorImg} alt="doctor" />
                                         </div>
                                         <div className='info-text'>
-                                            <p>Dr. Samantha Alice</p>
+                                            <p>Dr. Gagan Mehta</p>
                                             <p><small>Consultant</small></p>
                                         </div>
                                     </div>  

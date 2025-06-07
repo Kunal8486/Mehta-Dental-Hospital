@@ -15,7 +15,7 @@ const Team = () => {
         },
         {
             'img': imgTwo,
-            'name': 'Esther Howard'
+            'name': 'Gagan Mehta'
         },
         {
             'img': imgThree,
@@ -35,7 +35,7 @@ const Team = () => {
                     <div className="col-lg-7">
                         <SectionTitle 
                             subTitle="Meet our Team"
-                            title="Get to know the The Smile Factory
+                            title="Get to know the Mehta Dental Hospital
                             dental Team"
                         />
                     </div>

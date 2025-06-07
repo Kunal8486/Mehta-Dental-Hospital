@@ -35,7 +35,7 @@ const Navbar = () => {
                         {/* Logo */}
                         <Link className="navbar-brand" to="/">
                             <img src="/logo.png" className="nav-logo" alt="logo" />
-                            <span className="logo-text">The Smile Factory</span>
+                            <span className="logo-text">Mehta Dental Hospital</span>
                         </Link>
 
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

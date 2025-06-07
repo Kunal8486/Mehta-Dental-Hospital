@@ -1,2 +1,2 @@
 
-# The Smile Factory - Dental Clinic 
+# Mehta Dental Hospital - Dental Clinic 

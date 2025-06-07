@@ -45,7 +45,7 @@ const Footer = () => {
         },
         {
             'title': 'Clinic Address',
-            'info': '35 West Dental Street California 1004',
+            'info': 'GT Road, Fatehbad, Haryana',
             'icon': location
         }
     ]
@@ -102,7 +102,7 @@ const Footer = () => {
 
                 <div className="copyright-area">
                     <div className='copy-text'>
-                        <p>&copy; The Smile Factory. All Right Reserved</p>
+                        <p>&copy; Mehta Dental Hospital. All Right Reserved</p>
                     </div>  
                     <div className='copy-links'>
                         <ul>
