@@ -16,22 +16,22 @@ const Expert = () => {
           <div className="col-lg-6 col-md-6">
             <div className="expert-text">
               <SectionTitle
-                subTitle="EXPERTS IN DENTAL"
-                title="Top-notch dentistry from Seattle’s leading professionals"
-                description="Our experienced team is committed to providing exceptional dental care using the latest techniques and modern equipment, all in a comfortable and friendly environment."
+                subTitle="ADVANCED DENTAL TECHNOLOGY"
+                title="Top-tier care powered by state-of-the-art equipment"
+                description="At our dental hospital, we use the latest machines and tools to ensure accurate diagnoses, painless treatments, and faster recovery—all in a safe and hygienic environment."
               />
               <ul>
                 <li>
                   <BsFillCheckCircleFill />
-                  Top-quality dental professionals with years of experience
+                  Premium dental equipment for precision and comfort
                 </li>
                 <li>
                   <BsFillCheckCircleFill />
-                  Cutting-edge technology and advanced dental procedures
+                  Modern technology supporting advanced procedures
                 </li>
                 <li>
                   <BsFillCheckCircleFill />
-                  Affordable pricing and discounts on comprehensive treatments
+                  Transparent pricing and value-driven treatment plans
                 </li>
               </ul>
             </div>

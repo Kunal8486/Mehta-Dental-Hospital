@@ -11,7 +11,7 @@ const Team = () => {
     const teams = [
         {
             'img': imgOne,
-            'name': 'Dianne Russell'
+            'name': 'Gagan Mehta'
         },
         {
             'img': imgTwo,
